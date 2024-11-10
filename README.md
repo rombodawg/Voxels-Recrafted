@@ -37,6 +37,38 @@ I would recommend at nothing less powerful than these GPU's:
 
 Here is a list of all the mods included
 
+**__Version 2.0__ (Massive Update)**
+
+Possibly the final release as I dont really plan on updating it. Adds some more mods for immersion extra content. 
+
+Cant upload to curseforge because of licensing issues. Please use the same instructions on the main github page to install using curseforge. 
+
+Mods added:
+- Recipe Essentials
+- Clear Desapawn
+- Advancement Plaques
+- Iceberge
+- Sounds +
+- MRU
+- BN Blood Particles
+- True Fishing
+- Obscure Tooltips
+- Blossom
+- Artifacts-Forge
+- Ars Elemental (magic mod)
+- Ars Nouveau (magic mod)
+- Ambient Sounds Forge
+- Difficult Caves
+- Twilight Aether
+- Dynamic Trees The Twilight Forest
+- Twilight Delisght
+- Twilight Forest
+- Lost Aether mod
+- Deep Aether
+- Animation Overhaul
+- Necronomicon
+- A good place
+
 **__Version 1.5__ (Massive Update)**
 
 - Overhaul Dimensions 
