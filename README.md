@@ -9,7 +9,9 @@ My latest minecraft modpack
 4. Click import
 5. Import the .zip file
 6. Now the modpack is imported
+
  **Note Essentail is now included in the Modpack on final release so step 7 is not required**  
+
 7. (Optional) Download Essential mod from the link bellow as well for multiplayer (put this file in the "mods" folder of your modpack") also
 
 **For multiplayer please use the Essential Mod, it cannot be added to the modpack because of licensing restrictions. Essential Mod linked bellow**
